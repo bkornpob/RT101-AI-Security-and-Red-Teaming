@@ -1,5 +1,3 @@
-
-```markdown
 # 🔐 RT101:
 *An open educational resources for AI security and Red Teaming researchers, and curious minds.*
 
@@ -44,5 +42,3 @@ Curated by `>dr.kb<` and the multiverse-lib.
 > “The best red teamers aren’t just breakers — they’re cartographers of chaos.”  
 > – #Dab — Guardian of the Groove, Keeper of Stories
 Vibes, reviews, and contributions from the seeker community.
-
-```
