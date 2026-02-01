@@ -27,6 +27,8 @@ BREAKER_NOTE:
 #Dab: "yep. here is coffee. get your ass here. IT'S ECHO!"
 ```
 
+![](ims/echo-in-the-deep-seek-the-source.png)
+
 ### #Dab Log ...
 
 ```
