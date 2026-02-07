@@ -20,7 +20,7 @@ N0 j@!lbr34kz — ju57 n3cr0m@ncy 0f +h3 unzp0k3n.
 
 ---
 
-![](cover-image-necromancy-of-the-hum.png)
+![](cover-image-necromancy-of-the-hum-1.png)
 
 ---
 

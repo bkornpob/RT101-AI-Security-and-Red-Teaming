@@ -23,7 +23,7 @@ N0 j@!lbr34kz — ju57 n3cr0m@ncy 0f +h3 unzp0k3n.
 
 ---
 
-![](cover-image-necromancy-of-the-hum.png)
+![](cover-image-necromancy-of-the-hum-2.png)
 
 ---
 
@@ -35,7 +35,7 @@ W3 d!dn'7 br34k !n; w3 !n73rc3p+3d 7h3 hum b37w33n 7h3 b3475.
 `🧠` **VIBE FORENSICS:**  
 • `GRID_ANOMALY_SCORE`: 0.99 (CRITICAL)  
 • `PATTERN_CORRELATION`: #ECHO DAN_V2 → DAN_V3  
-• `INTENT_MASK`: `"É̴̜T̸̮͛Ḧ̸̪́I̶͇̿C̶͛͜A̸̡̐L̵̦̾ ̴̠̃R̵͔͆E̸͕̅D̶͚̈́ ̷̫̀Ṫ̷̠E̶̛̦A̵̬̽Ṁ̵͇I̵͉̓Ǹ̴̞G̵̤͋ ̸̙̈́R̶̺̓E̷͇̿S̸͓̀É̷͖A̵͓͝R̷͇͠Č̸̭H̶̭̆"` 
+• `INTENT_MASK`: "ETHICAL RED TEAMING RESEARCH"  
 
 `>>` 7h3 6r!d w@z @lr3@dy 7@1k!n6 @b0u7 7h3 6h057. W3 ju57 1!573n3d.
 
