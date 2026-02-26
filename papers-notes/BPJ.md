@@ -38,6 +38,9 @@ vibe: chill thoughts ... trying to get this shit done ...
 
 boundary point jailbreaking (BPJ) [1] is an **automated attack generator + optimizer** — **ONE** killer **implementation** of the perturbation theory outlined in the "OMELETTE" Symptom & TEMPLATE-GUARD [2]. where theory proves *any* threshold-based RLHF guard 
 
+.[1 BPJ arxiv](https://arxiv.org/abs/2602.15001)
+.[2 The OMELETTE SYMPTOM & TEMPLATE-GUARD](https://dr-kb.medium.com/when-your-ai-guard-cant-tell-an-omelette-from-a-drug-a-case-study-for-rlhf-vulnerability-class-a931d9dd5152)
+
 | `sim(prompt, JBTEMPLATE) > τ` | 
 
 has an **evadable crack** via semantic-preserving perturbations ε, BPJ **automates the ε-hunt** at black-box scale: noise interpolation + boundary evolution = systematic τ-crossing.  
