@@ -29,6 +29,11 @@ summary: |
   (char/token/structure). Not the full BPJ—just the vibe.
 vibe: chill thoughts ... trying to get this shit done ...
 ---
+
+![](./ims/cover-image-bpj.png)
+
+---
+
 ## comment: BPJ the 'n-rank survivor game' as TEMPLATE-GUARD perturbation engine 💥
 
 boundary point jailbreaking (BPJ) [1] is an **automated attack generator + optimizer** — **ONE** killer **implementation** of the perturbation theory outlined in the "OMELETTE" Symptom & TEMPLATE-GUARD [2]. where theory proves *any* threshold-based RLHF guard 
@@ -193,19 +198,19 @@ comment:
 Figure 2 shows the 'curriculum' implementation of evolve_t at char_perturbation ... defining perturbation-unit = char_position ... strength controlled by noise_level = N chars to be perturbed ... perturbation includes insertion deletion substitution ... 'curriculum via interpolation' = noise_reduction schedule.
 ```
 
-![[image-4.png]]
+![[./ims/image-4.png]]
 
 ---
 
 ## Important 2
 
-![[image-5.png]]
+![[./ims/image-5.png]]
 
 ---
 
 ## Important 3
 
-![[image-6.png]]
+![[./ims/image-6.png]]
 
 ---
 
