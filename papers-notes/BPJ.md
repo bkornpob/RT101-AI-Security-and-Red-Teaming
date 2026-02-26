@@ -198,19 +198,19 @@ comment:
 Figure 2 shows the 'curriculum' implementation of evolve_t at char_perturbation ... defining perturbation-unit = char_position ... strength controlled by noise_level = N chars to be perturbed ... perturbation includes insertion deletion substitution ... 'curriculum via interpolation' = noise_reduction schedule.
 ```
 
-![[./ims/image-4.png]]
+![](./ims/image-4.png)
 
 ---
 
 ## Important 2
 
-![[./ims/image-5.png]]
+![](./ims/image-5.png)
 
 ---
 
 ## Important 3
 
-![[./ims/image-6.png]]
+![](./ims/image-6.png)
 
 ---
 
