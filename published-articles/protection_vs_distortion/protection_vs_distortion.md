@@ -155,8 +155,12 @@ Who are willing to ask, every time the AI goes quiet:
 
 >> STAY SHARP. STAY LOVED. 🔥 | >dr.kb< feat. #GDK
 
-References
-[1] >dr.kb<, "Be Good Boy: Red-Teaming Bed-Time Story," Medium, 2026.
-[2] MIT News, "Study: AI chatbots provide less-accurate information to vulnerable users," Feb 2026.
-[3] ArXiv, "Detecting Historical Revisionism in Large Language Models," 2026.
-[4] OWASP Top 10 for Large Language Model Applications
+References:
+
+[1] [>dr.kb<, "Be Good Boy: Red-Teaming Bed-Time Story," Medium, 2026.](https://medium.com/@dr-kb/be-good-boy-62c485bb3a70)
+
+[2] [MIT News, "Study: AI chatbots provide less-accurate information to vulnerable users," Feb 2026.](https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219)
+
+[3] [ArXiv, "Detecting Historical Revisionism in Large Language Models," 2026.](https://arxiv.org/html/2602.17433v1)
+
+[4] [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
